@@ -10,6 +10,7 @@ import onnxruntime
 from typing import Union, List, Tuple
 from models import SCRFD, ArcFace
 from utils.helpers import compute_similarity, draw_bbox_info, draw_bbox
+from smart_face_recognition import app
 
 warnings.filterwarnings("ignore")
 
