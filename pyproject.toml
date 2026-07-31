@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "smart_face_recognition:app"
+entrypoint = "duplicate:app"
